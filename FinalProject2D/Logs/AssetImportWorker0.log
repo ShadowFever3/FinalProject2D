@@ -1,0 +1,326 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'en' Physical Memory: 16092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/fredv/OneDrive/Documents/GitHub/FinalProject2D/FinalProject2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51888
+Successfully changed project path to: C:/Users/fredv/OneDrive/Documents/GitHub/FinalProject2D/FinalProject2D
+C:/Users/fredv/OneDrive/Documents/GitHub/FinalProject2D/FinalProject2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 140.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/fredv/OneDrive/Documents/GitHub/FinalProject2D/FinalProject2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8046 MB
+    Driver:   27.20.100.8853
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008280 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 89.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.672 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1672ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1350ms)
+			LoadAssemblies (139ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (303ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (821ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (89ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (399ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1760ms)
+		BeginReloadAssembly (460ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1149ms)
+			LoadAssemblies (369ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (363ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (139ms)
+				ProcessInitializeOnLoadAttributes (176ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 515 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.6 MB.
+System memory in use after: 40.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 952.
+Total: 3.544600 ms (FindLiveObjects: 0.098200 ms CreateObjectMapping: 0.028100 ms MarkObjects: 3.322500 ms  DeleteObjects: 0.094300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Bullet3.prefab
+  artifactKey: Guid(af04f7b953e3f4e45b70637158bb95a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet3.prefab using Guid(af04f7b953e3f4e45b70637158bb95a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186cd69a881ba4cf3fb5081b219c33fe') in 0.212152 seconds 
+  Import took 0.215654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/pngable_fireball.png
+  artifactKey: Guid(2e00ef99ddad3a148987fabddfbfbc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pngable_fireball.png using Guid(2e00ef99ddad3a148987fabddfbfbc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b89c5829deda157333f588825bc8047') in 0.068968 seconds 
+  Import took 0.071694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Square.png
+  artifactKey: Guid(cae680b39383ca44f8b78478bbd8327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square.png using Guid(cae680b39383ca44f8b78478bbd8327a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c9c6c0ad9d8ed53c5b2a658143b833') in 0.024408 seconds 
+  Import took 0.026648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Bullet3.png
+  artifactKey: Guid(4c2db02ae9ef3514fa366e5255814fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet3.png using Guid(4c2db02ae9ef3514fa366e5255814fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b9a80e97770eef377550d059da95c4') in 0.027477 seconds 
+  Import took 0.030164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Player.prefab
+  artifactKey: Guid(4243b26d4c59c7c449b3cbee21e372e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.prefab using Guid(4243b26d4c59c7c449b3cbee21e372e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887c0e419854840c57ee9f8dd559670d') in 0.023132 seconds 
+  Import took 0.025831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Enemie1.png
+  artifactKey: Guid(6f83328f5df1d7a4d87e35a9e05c9b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemie1.png using Guid(6f83328f5df1d7a4d87e35a9e05c9b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5562f4517de4d4fd7e52f4a555031f1f') in 0.028465 seconds 
+  Import took 0.030899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/pngfind.com-bar-png-340419.png
+  artifactKey: Guid(4d9aad1347056174b9cba73e35c318c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pngfind.com-bar-png-340419.png using Guid(4d9aad1347056174b9cba73e35c318c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c34d2c37759e91759e5f55f6aae995d') in 0.026969 seconds 
+  Import took 0.029349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/DALEK___.ttf
+  artifactKey: Guid(cf481652e536d774fbe29e9e86c11a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DALEK___.ttf using Guid(cf481652e536d774fbe29e9e86c11a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd500bec1c6d6ea089b393399703a6050') in 0.101367 seconds 
+  Import took 0.104073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Square 1.png
+  artifactKey: Guid(505f9115c728b0647a6ac46448b1d627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square 1.png using Guid(505f9115c728b0647a6ac46448b1d627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c2b6c5fa10bddb21aaa7dd3206a83ee') in 0.023968 seconds 
+  Import took 0.027142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Enemies2.png
+  artifactKey: Guid(dc5ea2e3f8cbdb6459213c8338bad20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies2.png using Guid(dc5ea2e3f8cbdb6459213c8338bad20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7ef5685b88b7fe7acd1ccc1c5c8d4f') in 0.024080 seconds 
+  Import took 0.026836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Bullet2 1.prefab
+  artifactKey: Guid(b7bff4ddae0323340b4fe1878a1990ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet2 1.prefab using Guid(b7bff4ddae0323340b4fe1878a1990ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988035ddefabf64daeb454a6c0da19e5') in 0.023307 seconds 
+  Import took 0.025823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/mana.png
+  artifactKey: Guid(c82416735e23a85488536f0d77d21437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mana.png using Guid(c82416735e23a85488536f0d77d21437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9328e019002a8ec1d5568f18e9b696') in 0.028726 seconds 
+  Import took 0.031316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/pngable_fireball.prefab
+  artifactKey: Guid(28d76be20ff36d5418ecd9d37a4e1b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pngable_fireball.prefab using Guid(28d76be20ff36d5418ecd9d37a4e1b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf63d29539d6e38f9e20c6b4e8f993ca') in 0.022667 seconds 
+  Import took 0.025359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Greece Gods.jpg
+  artifactKey: Guid(bb2705051c74aca479acd77c765be750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greece Gods.jpg using Guid(bb2705051c74aca479acd77c765be750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f935b457ddab4ca9859dca0e0d1dcc31') in 0.029810 seconds 
+  Import took 0.032435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/EnemiesMagic.prefab
+  artifactKey: Guid(c7ca5c4a1b5d425409ca265633c50b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnemiesMagic.prefab using Guid(c7ca5c4a1b5d425409ca265633c50b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ae2afab339385e3c88fabd4bea654a') in 0.024768 seconds 
+  Import took 0.027924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/GreeceMenu.jpg
+  artifactKey: Guid(8431e822205bc44498a42108665aa38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreeceMenu.jpg using Guid(8431e822205bc44498a42108665aa38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cdd6256949bc8d5d5dd147bb7744bc') in 0.031994 seconds 
+  Import took 0.034765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Plateform.png
+  artifactKey: Guid(b3c07cc5303412748bc821c339855a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plateform.png using Guid(b3c07cc5303412748bc821c339855a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db599b74201a5acdbd1c14518dea47a') in 0.025261 seconds 
+  Import took 0.027782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Player.png
+  artifactKey: Guid(19feacf3906331449930d51b2466bb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.png using Guid(19feacf3906331449930d51b2466bb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6692d1c3d515de63d9786320b9c20c22') in 0.022640 seconds 
+  Import took 0.025286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/HexagonFlat-Top.png
+  artifactKey: Guid(2a1039b1594794f438930e36edd669c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HexagonFlat-Top.png using Guid(2a1039b1594794f438930e36edd669c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0330a660117364c1ba646a89d5fcd060') in 0.029493 seconds 
+  Import took 0.032575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Bullet1.png
+  artifactKey: Guid(1713d417d9200ac4fb0d25469e5627b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet1.png using Guid(1713d417d9200ac4fb0d25469e5627b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967240688386c34d8527cd7b182fda2e') in 0.027007 seconds 
+  Import took 0.029505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/terraria.png
+  artifactKey: Guid(42a917a73c5c0024ca28ed54decd7138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/terraria.png using Guid(42a917a73c5c0024ca28ed54decd7138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6282d35a33cf771fece97f6f8df82093') in 0.032276 seconds 
+  Import took 0.034066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Bullet1.prefab
+  artifactKey: Guid(f478970238e61724f99e2fced416ecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet1.prefab using Guid(f478970238e61724f99e2fced416ecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147a90ff348db1747379c95231e7c356') in 0.021600 seconds 
+  Import took 0.024137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/EnemiesMagic.png
+  artifactKey: Guid(f4d118366a48a1c479fc67c7d0d53ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EnemiesMagic.png using Guid(f4d118366a48a1c479fc67c7d0d53ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926051c6843db45792bdae0132e34bd3') in 0.024290 seconds 
+  Import took 0.027034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Square 2.png
+  artifactKey: Guid(bb3cf0551c780e9409ebf2c50a573d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square 2.png using Guid(bb3cf0551c780e9409ebf2c50a573d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1fef3e62448b3ac65f41384e72c9c0') in 0.050737 seconds 
+  Import took 0.054150 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
